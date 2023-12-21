@@ -6,5 +6,5 @@ arduino-cli.exe board list
 arduino-cli.exe board attach -b arduino:avr:uno .\B001\B001.ino
 arduino-cli.exe core install arduino:avr
 arduino-cli.exe compile -b arduino:avr:uno B001\B001.ino
-arduino-cli.exe upload -b arduino:avr:uno -p COM5 B001\B001.ino
+arduino-cli.exe upload -b arduino:avr:uno -p COM7 B001\B001.ino
 arduino-cli.exe monitor -p COM6 -b arduino:avr:uno B001\B001.ino
