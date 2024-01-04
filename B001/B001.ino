@@ -20,8 +20,8 @@ float f = dht.readTemperature(true);//讀取華氏溫度
 #endif
 
 #if !defined(PZEM_RX_PIN) && !defined(PZEM_TX_PIN)
-#define PZEM_RX_PIN 12
-#define PZEM_TX_PIN 13
+#define PZEM_RX_PIN 11
+#define PZEM_TX_PIN 12
 #endif
 
 SoftwareSerial pzemSWSerial(PZEM_RX_PIN, PZEM_TX_PIN);
@@ -34,8 +34,8 @@ PZEM004Tv30 pzem(pzemSWSerial);
 void setup() {
 	Serial.print("Custom Address:");
     Serial.print(pzem.readAddress(), HEX);
-  	Serial.begin(115200);
-	Serial.println("Humidity,Temp,Voltage,Power,Energy,Frequency,PF");
+  	Serial.begin(9600);
+	Serial.println("Humidity,Temp,Voltage,current,Power,Energy,Frequency,PF");
 
 }
 

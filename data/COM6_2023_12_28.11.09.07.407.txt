@@ -1,0 +1,59 @@
+0Humidity,Temp,Voltage,Power,Energy,Frequency,PF
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
+0.00%,0.00,Error reading voltage
+
